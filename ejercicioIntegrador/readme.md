@@ -25,5 +25,12 @@ d) Dibujar los bordes del objeto segmentado en color rojo.
 ### Adicionales:
 * Se debe considerar un buen uso de prácticas e implementación de código, así como un análisis de resultados y conclusiones.
 
+## Dependencias
+* `cv2` (OpenCV)
+* `numpy`
+* `matplotlib.pyplot`
+* `google.colab.patches` (para cv2_imshow en Colab)
+Estas librerías generalmente están preinstaladas en Google Colab, excepto opencv-python que puede requerir instalación.
+
 ## Notas
 * Este notebook está diseñado como un ejercicio integrador, combinando varios temas importantes del procesamiento de imágenes.
