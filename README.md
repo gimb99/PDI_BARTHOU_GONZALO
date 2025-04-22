@@ -3,6 +3,7 @@
 ## Tabla de Contenidos
 
 - [Descripción](#descripción)
+- [Contenidos](#contenidos)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
@@ -14,6 +15,13 @@
 Este repositorio tiene el propósito de proporcionar un repaso y orientaciones de funcionalidades relacionadas a Python y algunas librerías dedicadas a procesamiento de imágenes, aprovechando el espacio de GitHub para así dar a disposición una estructura más organizada.
 
 Esto es con la finalidad de presentar un proyecto integrador para la materia de Procesamiento de Imágenes en la Tecnicatura en Ciencia de Datos e Inteligencia Artificial del IFTS24.
+
+## Contenidos
+
+Aquí puedes encontrar una lista de las carpetas con los notebooks incluidos en este repositorio y una breve descripción de cada uno:
+
+* [Repaso de Python](repasoPython): Breve repaso de los fundamentos del lenguaje **python**. El mismo contiene algunos ejemplos.
+* [Ejercicio Integrador](ejercicioIntegrador): Aplicamos tecnicas de separacion de colores, muestreo, cuantizacion y segmentación simple a una imagen, siguiendo una consigna.
 
 ## Instalación
 ### Requisitos y dependencias
