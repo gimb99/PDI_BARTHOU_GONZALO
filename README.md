@@ -22,6 +22,7 @@ Aquí puedes encontrar una lista de las carpetas con los notebooks incluidos en 
 
 * [Repaso de Python](repasoPython): Breve repaso de los fundamentos del lenguaje **python**. El mismo contiene algunos ejemplos.
 * [Ejercicio Integrador](ejercicioIntegrador): Aplicamos tecnicas de separacion de colores, muestreo, cuantizacion y segmentación simple a una imagen, siguiendo una consigna.
+* [Ejercicio Integrador 2](ejercicioIntegrador2): Se aplican técnicas de reconocimiento facial, así como de landmarks faciales junto a su selección posterior. Incluye un archivo de laboratorio con pruebas previas de segmentación de imagen.
 
 ## Instalación
 ### Requisitos y dependencias
