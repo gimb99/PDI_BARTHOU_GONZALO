@@ -20,9 +20,9 @@ Esto es con la finalidad de presentar un proyecto integrador para la materia de 
 
 Aquí puedes encontrar una lista de las carpetas con los notebooks incluidos en este repositorio y una breve descripción de cada uno:
 
-* [Repaso de Python](repasoPython): Breve repaso de los fundamentos del lenguaje **python**. El mismo contiene algunos ejemplos.
-* [Ejercicio Integrador](ejercicioIntegrador): Aplicamos tecnicas de separacion de colores, muestreo, cuantizacion y segmentación simple a una imagen, siguiendo una consigna.
-* [Ejercicio Integrador 2](ejercicioIntegrador2): Se aplican técnicas de reconocimiento facial, así como de landmarks faciales junto a su selección posterior. Incluye un archivo de laboratorio con pruebas previas de segmentación de imagen.
+* [Repaso de Python](000-Repaso): Breve repaso de los fundamentos del lenguaje **python**. El mismo contiene algunos ejemplos.
+* [Ejercicio Integrador](001-ManipulacionBasica): Aplicamos tecnicas de separacion de colores, muestreo, cuantizacion y segmentación simple a una imagen, siguiendo una consigna.
+* [Ejercicio Integrador 2](002-Segmentacion): Se aplican técnicas de reconocimiento facial, así como de landmarks faciales junto a su selección posterior. Incluye un archivo de laboratorio con pruebas previas de segmentación de imagen.
 
 ## Instalación
 ### Requisitos y dependencias
