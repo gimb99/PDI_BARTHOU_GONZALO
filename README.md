@@ -23,12 +23,14 @@ Aquí puedes encontrar una lista de las carpetas con los notebooks incluidos en 
 * [Repaso de Python](000-Repaso): Breve repaso de los fundamentos del lenguaje **python**. El mismo contiene algunos ejemplos.
 * [Ejercicio Integrador](001-ManipulacionBasica): Aplicamos tecnicas de separacion de colores, muestreo, cuantizacion y segmentación simple a una imagen, siguiendo una consigna.
 * [Ejercicio Integrador 2](002-Segmentacion): Se aplican técnicas de reconocimiento facial, así como de landmarks faciales junto a su selección posterior. Incluye un archivo de laboratorio con pruebas previas de segmentación de imagen.
+* [Proyecto Integrador](003-IntegradorFinal): Aplicamos las técnicas aprendidas en diferentes clases, así como en los trabajos integradores anteriores, un modelo de reconocimiento de objetos para facilitar la detección de objetos ortopédicos.
 
 ## Instalación
 ### Requisitos y dependencias
 * Este notebook requiere las siguientes bibliotecas de Python: `pandas`, `numpy`, `matplotlib`, `opencv-python`.
   Si bien estos ya están declarados en los notebooks, puedes instalarlas ejecutando `pip install pandas numpy matplotlib cv2` en una celda de Colab.
 * Algunos notebooks pueden requerir la descarga de conjuntos de datos específicos. Las instrucciones para hacerlo se encuentran dentro de los README.md de las carpetas correspondientes
+* Para [Proyecto Integrador](003-IntegradorFinal), se requiere de `ultralytics`. Puede ser instalado usando `pip install ultralytics` y ésta instalará todas sus dependencias
 
 ### Comandos de importación para repositorio
 ```bash
