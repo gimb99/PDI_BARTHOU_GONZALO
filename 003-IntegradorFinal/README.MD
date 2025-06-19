@@ -8,7 +8,7 @@ La idea en cuestión para este proyecto de duración corta está orientada a pro
 ### Anaconda
 ### Label Studio (Etiquetado manual)
 
-### Aclaración
+## Aclaración
 Cabe notificar que la naturaleza de este proyecto es de uno en desarrollo, y no representa la versión final del mismo.
 La precisión del modelo presentado puede variar dependiendo del conjunto de datos contextuales que se proporciona al modelo y por tanto, se puede iterar sobre la precisión del mismo a futuro.
 
