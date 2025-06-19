@@ -5,7 +5,8 @@ Edje Electronics (Evan Juras)
 
 * https://www.ejtech.io/learn/train-yolo-models
 
-* https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/yolo_detect.py (Script para Deploy)
+* https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models
+** https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/daabb56e65ab3090fe046f761ed035157a0d9350/yolo_detect.py (Script para Deploy)
 
 
 Universidad de Freiburg
