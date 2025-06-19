@@ -30,6 +30,7 @@ Aquí puedes encontrar una lista de las carpetas con los notebooks incluidos en 
 * Este notebook requiere las siguientes bibliotecas de Python: `pandas`, `numpy`, `matplotlib`, `opencv-python`.
   Si bien estos ya están declarados en los notebooks, puedes instalarlas ejecutando `pip install pandas numpy matplotlib cv2` en una celda de Colab.
 * Algunos notebooks pueden requerir la descarga de conjuntos de datos específicos. Las instrucciones para hacerlo se encuentran dentro de los README.md de las carpetas correspondientes
+* Para [Proyecto Integrador](003-IntegradorFinal), se requiere de `ultralytics`. Puede ser instalado usando `pip install ultralytics` y ésta instalará todas sus dependencias
 
 ### Comandos de importación para repositorio
 ```bash
