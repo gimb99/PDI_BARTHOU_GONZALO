@@ -54,7 +54,7 @@ Si deseas ejecutar los notebooks del repositorio directamente en Google Colab, s
 
 * Selecciona la pestaña GitHub en la pantalla de inicio.
 
-* Pega la URL del repositorio: https://github.com/gimb99/gbgTPDI/
+* Pega la URL del repositorio: https://github.com/gimb99/PDI_BARTHOU_GONZALO/
 
 * Elige el notebook que deseas abrir.
 
