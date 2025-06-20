@@ -5,9 +5,9 @@ El siguiente proyecto tiene la intención de exponer los conocimientos aprendido
 La idea en cuestión para este proyecto de duración corta está orientada a proporcionar asistencia a choferes de transporte público (colectivos) de forma tal que puedan ser notificados a tiempo si la parada siguiente tiene presencia de al menos una persona con discapacidades motrices, evidenciada por la detección de elementos ortopédicos por cámaras de seguridad públicas en paradas a lo largo de la Ciudad de Buenos Aires.
 
 ## Dependencias
-### Ultralytics (´ultralytics´)
-### Anaconda
-### Label Studio (Etiquetado manual)
+* Ultralytics (´ultralytics´)
+* Anaconda
+* Label Studio (Etiquetado manual)
 
 ## Aclaración
 Cabe notificar que la naturaleza de este proyecto es de uno en desarrollo, y no representa la versión final del mismo.
