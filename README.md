@@ -12,9 +12,16 @@
 
 ## Descripción
 
+### Sobre este repositorio
+
 Este repositorio tiene el propósito de proporcionar un repaso y orientaciones de funcionalidades relacionadas a Python y algunas librerías dedicadas a procesamiento de imágenes, aprovechando el espacio de GitHub para así dar a disposición una estructura más organizada.
 
 Esto es con la finalidad de presentar un proyecto integrador para la materia de Procesamiento de Imágenes en la Tecnicatura en Ciencia de Datos e Inteligencia Artificial del IFTS24.
+
+### Sobre la materia y disciplina
+
+El Procesamiento Digital de Imágenes (PDI) es una disciplina fundamental dentro del campo del Análisis de Datos e IA, que se enfoca en la manipulación y análisis de imágenes digitales para extraer información útil y automatizar tareas visuales. 
+Las técnicas de PDI son esenciales para una amplia gama de aplicaciones, desde la visión por computadora hasta el diagnóstico médico.
 
 ## Contenidos
 
@@ -23,7 +30,7 @@ Aquí puedes encontrar una lista de las carpetas con los notebooks incluidos en 
 * [Repaso de Python](000-Repaso): Breve repaso de los fundamentos del lenguaje **python**. El mismo contiene algunos ejemplos.
 * [Ejercicio Integrador](001-ManipulacionBasica): Aplicamos tecnicas de separacion de colores, muestreo, cuantizacion y segmentación simple a una imagen, siguiendo una consigna.
 * [Ejercicio Integrador 2](002-Segmentacion): Se aplican técnicas de reconocimiento facial, así como de landmarks faciales junto a su selección posterior. Incluye un archivo de laboratorio con pruebas previas de segmentación de imagen.
-* [Proyecto Integrador](003-IntegradorFinal): Aplicamos las técnicas aprendidas en diferentes clases, así como en los trabajos integradores anteriores, un modelo de reconocimiento de objetos para facilitar la detección de objetos ortopédicos.
+* [Proyecto Integrador Final](003-IntegradorFinal): Aplicamos las técnicas aprendidas en diferentes clases, así como en los trabajos integradores anteriores, un modelo de reconocimiento de objetos para facilitar la detección de objetos ortopédicos.
 
 ## Instalación
 ### Requisitos y dependencias
